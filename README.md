@@ -14,7 +14,7 @@
 - 🌱 Got a certificate Kaggle platform at Data Analysis Basics.
 - 📫 How to reach me **ahmeddarwish0098@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1S0SQHkfQ1-m9MqcRswqxq5_1UTee90CP/view?usp=sharing).
-- 💬 Ask me about **Data Analysis, Data VisualiPython, SQL, DAX, Excel, Power BI, Tableau**
+- 💬 Ask me about **Python, SQL, DAX, Excel, Power BI, Tableau**
 - :nerd_face: Always `learning, and applying my skills`
 - 🐼 Doing my best 
 
