@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Darwish</h1>
-<h3 align="center">A FCI Graduate and interested in Data Analysis</h3>
+<h3 align="center">A FCI Graduate who has experience with programming languages and Write Queries for Data Analysis, Projects Management, Data Visualization, Practical statistics using Python, Familiarity with Agile practices, and I’m seeking opportunities for continuous improvement, learning, and applying my skills to add a value in a teamwork environment.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmeddarwish98&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddarwish98" />
 		   <img src="https://badges.pufler.dev/repos/ahmeddarwish98" alt="ahmeddarwish98" />
