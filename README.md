@@ -2,13 +2,13 @@
 <h3 align="center">A FCI Graduate who has experience with programming languages and Write Queries for Data Analysis, Projects Management, Data Visualization, Practical statistics using Python, Familiarity with Agile practices, and I’m seeking opportunities for continuous improvement, learning, and applying my skills to add a value in a teamwork environment.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmeddarwish98&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddarwish98" />
-		   <img src="https://badges.pufler.dev/repos/ahmeddarwish98" alt="ahmeddarwish98" />
 		   <img src="https://img.shields.io/github/followers/ahmeddarwish98?label=Followers" alt="ahmeddarwish98" />
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 - :school: B.S.E. In Computers and Information System, Menoufia University.
+- 🌱 Graduated from " Data Science and Business Analytics" offered by The Sparks Foundation.
 - 🌱 Graduated from "Data Analysis Nanodegree" offered by FWD Egypt & Udacity.
 - 🌱 Got a certificate ITI platform at Python Programming and Database Fundamentals.
 - 🌱 Got a certificate Kaggle platform at Data Analysis Basics.
