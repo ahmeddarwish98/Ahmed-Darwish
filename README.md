@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Darwish</h1>
-<h3 align="center">A FCI Graduate who has experience with programming languages and Write Queries for Data Analysis, Projects Management, Data Visualization, Practical statistics using Python, Familiarity with Agile practices, and I’m seeking opportunities for continuous improvement, learning, and applying my skills to add a value in a teamwork environment.</h3>
+<h3 align="center">AA Data Engineer with 4+ years of experience collecting data, analyzing and organizing it and transforming it into valuable information that can be used for decision-making and developing technical solutions, and with experience in data visualization and familiarity with agile practices, I believe in continuous improvement, the opportunity to learn and apply my skills to add value in a teamwork environment.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmeddarwish98&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddarwish98" />
 		   <img src="https://img.shields.io/github/followers/ahmeddarwish98?label=Followers" alt="ahmeddarwish98" />
